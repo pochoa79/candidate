@@ -1,0 +1,2 @@
+# candidate
+Manejo Candidatos
